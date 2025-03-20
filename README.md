@@ -4,7 +4,6 @@
 
 三角形メッシュの測地距離の計算手法 Geodesics in heat: A new approach to computing distance based on heat flow [Crane et al. 2013]の実装．  
 
-授業の課題として実装．
 * 使用言語：C++
 * 使用ライブラリ：Eigen
 
